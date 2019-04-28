@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <homepage display_value="peer_index">dfd319d5db307f00d449f78eaf961977</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>brian.griffith</sys_created_by>
+        <sys_created_on>2019-04-13 01:06:25</sys_created_on>
+        <sys_id>2fa6d959db307f00d449f78eaf9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Peer Review</sys_name>
+        <sys_package display_value="Peer Review" source="x_snc_peer_review">a2398835db2077005870fc3daf9619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">a2398835db2077005870fc3daf9619ba</sys_scope>
+        <sys_update_name>sp_portal_2fa6d959db307f00d449f78eaf9619ed</sys_update_name>
+        <sys_updated_by>brian.griffith</sys_updated_by>
+        <sys_updated_on>2019-04-13 01:06:25</sys_updated_on>
+        <theme display_value="Peer Review">d545a845db743f00d449f78eaf9619de</theme>
+        <title>Peer Review</title>
+        <url_suffix>peer</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=2fa6d959db307f00d449f78eaf9619ed"/>
+</record_update>

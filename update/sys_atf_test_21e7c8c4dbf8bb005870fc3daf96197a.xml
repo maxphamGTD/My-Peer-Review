@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Test the record producer submit for Peer Review Feedback.</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>Submit Peer Review Feedback</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>brian.griffith</sys_created_by>
+        <sys_created_on>2019-04-08 22:13:37</sys_created_on>
+        <sys_id>21e7c8c4dbf8bb005870fc3daf96197a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Submit Peer Review Feedback</sys_name>
+        <sys_package display_value="Peer Review" source="x_snc_peer_review">a2398835db2077005870fc3daf9619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">a2398835db2077005870fc3daf9619ba</sys_scope>
+        <sys_update_name>sys_atf_test_21e7c8c4dbf8bb005870fc3daf96197a</sys_update_name>
+        <sys_updated_by>brian.griffith</sys_updated_by>
+        <sys_updated_on>2019-04-09 00:19:45</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=21e7c8c4dbf8bb005870fc3daf96197a"/>
+</record_update>
